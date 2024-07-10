@@ -1,0 +1,16 @@
+Why Shared Runners?
+
+- Provided by GitLab
+- Run on GitLab's infrastructure
+- Easy to set up
+- Limited customization
+- Shared resources (CPU, memory) with other users
+- Suitable for small projects or testing
+
+why not Self-Hosted Runner for this project:
+
+- Installed on your own infrastructure (on-premises or cloud)
+- Run on your own machines or VMs
+- More control and customization
+- Dedicated resources (CPU, memory) for your pipelines
+- Suitable for large projects, production environments, or high-security requirements
